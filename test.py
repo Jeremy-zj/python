@@ -29,7 +29,7 @@ try:
 except KeyboardInterrupt:
     print('\nExit')
 
-#help_pos = pyautogui.locateOnScreen('q.png')
+#help_pos = pyautogui.locateOnScreen('h.png')
 
 #goto_pos = pyautogui.center(help_pos)
 
