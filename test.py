@@ -6,7 +6,7 @@ time.sleep(2)
 #position = pyautogui.position()
 #print(position)
 
-new_pos = pyautogui.locateOnScreen('h.png')
+#new_pos = pyautogui.locateOnScreen('h.png')
     
 try:
     while True:
