@@ -11,3 +11,15 @@ try:
             L_pos = N_pos
 except KeyboardInterrupt:
     print('\nExit')
+
+
+# def get_location():
+#     new_pos = pyautogui.locateOnScreen('h.png')
+
+#     goto_pos = pyautogui.center(new_pos)
+
+#     pyautogui.moveTo(goto_pos)
+
+#     pyautogui.click()
+
+# get_location()
